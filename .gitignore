@@ -1,5 +1,9 @@
 # raw inputs are copies of course-repo files; never committed (cohort.db is 16 MB)
-data/
+# the empty data/raw/ folder is kept so the README's copy commands work on a fresh clone
+data/*
+!data/raw/
+data/raw/*
+!data/raw/.gitkeep
 *.db
 *.db-journal
 

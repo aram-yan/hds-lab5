@@ -34,6 +34,7 @@ conda env create -f environment.yml
 conda activate hds-lab5
 
 # raw inputs: copy from a clone of https://github.com/gwcbi/applied-computing-HDS
+mkdir -p data/raw
 cp ../applied-computing-HDS/data/raw/lab3-messy-data/messy_samples.csv data/raw/
 cp ../applied-computing-HDS/data/raw/lab4-cbioportal-luad/cohort.db   data/raw/
 ```
