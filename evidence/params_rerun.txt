@@ -1,0 +1,40 @@
+# Second partial re-run: a changed parameter (not a file) re-runs only the rules that use it.
+$ snakemake -n --config reference_date=2026-09-01
+rule merge_tables:
+    input: results/samples_clean.tsv, results/features/feature_table.tsv
+    output: results/combined.tsv
+    log: logs/merge_tables.log
+    jobid: 2
+    reason: Params have changed since last execution: Union of exclusive params before and now across all output: before: '2026-08-08' now: '2026-09-01' 
+[Mon Nov  9 13:16:37 2026]
+rule report:
+    input: results/combined.tsv
+    output: results/report/figure.png, results/report/summary.md
+    log: logs/report.log
+    jobid: 1
+    reason: Input files updated by another job: results/combined.tsv
+[Mon Nov  9 13:16:37 2026]
+rule all:
+    input: results/report/figure.png, results/report/summary.md
+    jobid: 0
+    reason: Input files updated by another job: results/report/figure.png, results/report/summary.md
+Job stats:
+job             count
+------------  -------
+merge_tables        1
+report              1
+all                 1
+total               3
+
+Reasons:
+    (check individual jobs above for details)
+    input files updated by another job:
+        all, report
+    params have changed since last execution:
+        merge_tables
+Some jobs were triggered by provenance information, see 'reason' section in the rule displays above.
+If you prefer that only modification time is used to determine whether a job shall be executed, use the command line option '--rerun-triggers mtime' (also see --help).
+If you are sure that a change for a certain output file (say, <outfile>) won't change the result (e.g. because you just changed the formatting of a script or environment definition), you can also wipe its metadata to skip such a trigger via 'snakemake --cleanup-metadata <outfile>'. 
+Rules with provenance triggered jobs: merge_tables
+
+This was a dry-run (flag -n). The order of jobs does not reflect the order of execution.

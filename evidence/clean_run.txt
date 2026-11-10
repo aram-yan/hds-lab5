@@ -1,0 +1,102 @@
+$ rm -rf results logs .snakemake
+$ snakemake --cores 2
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-11-09 13:14:19
+  Workflow ID: dddc1b53-f2f7-401f-9e9d-c1e314d24b9e
+  Platform: Windows-11-10.0.26300-SP0
+  Host: XPS15
+  User: Aram
+  Snakemake version: 9.27.1
+  Python version: 3.12.16 | packaged by conda-forge | (main, Oct 26 2026, 11:29:01) [MSC v.1944 64 bit (AMD64)]
+  Command: C:\Users\Aram\miniconda3\envs\hds-lab5\Scripts\snakemake --cores 2
+  Snakefile: C:\Users\Aram\OneDrive\Desktop\Bioinformatics PhD\12. Applied Computing in Health Data Science\Labs\hds-lab5\Snakefile
+  Base directory: C:\Users\Aram\OneDrive\Desktop\Bioinformatics PhD\12. Applied Computing in Health Data Science\Labs\hds-lab5
+  Run directory: C:\Users\Aram\OneDrive\Desktop\Bioinformatics PhD\12. Applied Computing in Health Data Science\Labs\hds-lab5
+  Working directory: C:\Users\Aram\OneDrive\Desktop\Bioinformatics PhD\12. Applied Computing in Health Data Science\Labs\hds-lab5
+  Config file(s): ['config.yaml']
+  Config MD5: bdc6f23fadbac67b34833c9df2c16a27
+
+Building DAG of jobs...
+Provided cores: 2
+Rules claiming more threads will be scaled down.
+Job stats:
+job               count
+--------------  -------
+clean_samples         1
+query_features        1
+merge_tables          1
+report                1
+all                   1
+total                 5
+
+Select jobs to execute...
+Execute 2 jobs...
+
+[Mon Nov  9 13:14:20 2026]
+localrule query_features:
+    input: data/raw/cohort.db, sql/queries.sql
+    output: results/features/feature_table.tsv, results/features/query_row_counts.md, results/features/data_dictionary.tsv, results/features/patients_by_site_stage.tsv, results/features/missing_values_summary.tsv
+    log: logs/query_features.log
+    jobid: 4
+    reason: Missing output files: results/features/feature_table.tsv
+    resources: tmpdir=C:\Users\Aram\AppData\Local\Temp
+[Mon Nov  9 13:14:20 2026]
+localrule clean_samples:
+    input: data/raw/messy_samples.csv
+    output: results/samples_clean.tsv
+    log: logs/clean_samples.log
+    jobid: 3
+    reason: Missing output files: results/samples_clean.tsv
+    resources: tmpdir=C:\Users\Aram\AppData\Local\Temp
+[Mon Nov  9 13:14:22 2026]
+Finished jobid: 3 (Rule: clean_samples)
+1 of 5 steps (20%) done
+[Mon Nov  9 13:14:25 2026]
+Finished jobid: 4 (Rule: query_features)
+2 of 5 steps (40%) done
+Select jobs to execute...
+Execute 1 jobs...
+
+[Mon Nov  9 13:14:25 2026]
+localrule merge_tables:
+    input: results/samples_clean.tsv, results/features/feature_table.tsv
+    output: results/combined.tsv
+    log: logs/merge_tables.log
+    jobid: 2
+    reason: Missing output files: results/combined.tsv; Input files updated by another job: results/samples_clean.tsv, results/features/feature_table.tsv
+    resources: tmpdir=C:\Users\Aram\AppData\Local\Temp
+[Mon Nov  9 13:14:26 2026]
+Finished jobid: 2 (Rule: merge_tables)
+3 of 5 steps (60%) done
+Select jobs to execute...
+Execute 1 jobs...
+
+[Mon Nov  9 13:14:26 2026]
+localrule report:
+    input: results/combined.tsv
+    output: results/report/figure.png, results/report/summary.md
+    log: logs/report.log
+    jobid: 1
+    reason: Missing output files: results/report/summary.md, results/report/figure.png; Input files updated by another job: results/combined.tsv
+    resources: tmpdir=C:\Users\Aram\AppData\Local\Temp
+[Mon Nov  9 13:14:29 2026]
+Finished jobid: 1 (Rule: report)
+4 of 5 steps (80%) done
+Select jobs to execute...
+Execute 1 jobs...
+
+[Mon Nov  9 13:14:29 2026]
+localrule all:
+    input: results/report/figure.png, results/report/summary.md
+    jobid: 0
+    reason: Input files updated by another job: results/report/summary.md, results/report/figure.png
+    resources: tmpdir=C:\Users\Aram\AppData\Local\Temp
+[Mon Nov  9 13:14:29 2026]
+Finished jobid: 0 (Rule: all)
+5 of 5 steps (100%) done
+Complete log(s): C:\Users\Aram\OneDrive\Desktop\Bioinformatics PhD\12. Applied Computing in Health Data Science\Labs\hds-lab5\.snakemake\log\2026-11-09T131419.762567.snakemake.log
+Elapsed time: 0:00:10.173441
+exit=0

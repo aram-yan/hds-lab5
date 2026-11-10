@@ -1,0 +1,627 @@
+cohort	record_id	sex	site	age_years	stage	glucose_mgdl	tmb_nonsynonymous	TP53_count	KRAS_count	EGFR_count	STK11_count	KEAP1_count	n_qc_flags
+lab3_clinic	S0001	F	Site B	64.1	NA	145.9	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0002	M	Site C	51.6	NA	146.1	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0003	F	Site B	72.7	NA	84.2	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0004	F	Site B	69.4	NA	120.0	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0005	M	Site B	28.7	NA	138.3	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0006	F	Site C	57.7	NA	159.9	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0007	U	Site A	56.9	NA	206.0	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0008	F	Site C	27.0	NA	229.3	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0009	M	Site C	31.1	NA	185.0	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0010	F	Site C	74.9	NA	215.2	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0011	M	Site A	65.1	NA	165.0	NA	NA	NA	NA	NA	NA	3
+lab3_clinic	S0012	NA	Site A	30.2	NA	110.4	NA	NA	NA	NA	NA	NA	2
+lab3_clinic	S0013	F	Site B	73.8	NA	112.8	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0014	F	Site B	67.9	NA	144.0	NA	NA	NA	NA	NA	NA	2
+lab3_clinic	S0015	M	Site B	28.5	NA	103.0	NA	NA	NA	NA	NA	NA	3
+lab3_clinic	S0016	NA	Site B	68.2	NA	157.4	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0017	NA	Site A	11.1	NA	123.4	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0018	F	Site B	69.4	NA	82.2	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0019	M	Site A	25.9	NA	190.6	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0020	F	Site B	26.1	NA	108.4	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0021	M	Site C	21.7	NA	88.6	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0022	NA	Site A	19.7	NA	233.0	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0023	M	Site A	27.1	NA	83.5	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0024	F	Site C	73.0	NA	114.9	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0025	M	Site A	60.7	NA	202.6	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0026	F	Site A	73.1	NA	217.0	NA	NA	NA	NA	NA	NA	2
+lab3_clinic	S0027	F	Site C	70.4	NA	161.7	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0028	F	Site B	37.6	NA	179.1	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0029	F	Site C	17.0	NA	222.6	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0030	M	Site B	42.6	NA	168.6	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0031	M	Site C	30.7	NA	85.3	NA	NA	NA	NA	NA	NA	2
+lab3_clinic	S0032	U	Site B	34.0	NA	229.5	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0033	M	Site B	14.2	NA	114.9	NA	NA	NA	NA	NA	NA	2
+lab3_clinic	S0034	U	Site A	31.3	NA	203.9	NA	NA	NA	NA	NA	NA	2
+lab3_clinic	S0035	F	Site A	69.7	NA	130.5	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0036	NA	Site C	39.3	NA	145.6	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0037	U	Site A	10.7	NA	119.1	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0038	U	Site B	28.7	NA	171.6	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0039	M	Site C	46.3	NA	241.2	NA	NA	NA	NA	NA	NA	4
+lab3_clinic	S0040	M	Site A	18.1	NA	105.9	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0041	M	Site A	61.5	NA	89.5	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0042	F	Site C	20.3	NA	209.0	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0043	U	Site A	75.5	NA	148.0	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0044	U	Site B	28.3	NA	218.6	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0045	M	Site B	42.6	NA	223.2	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0046	F	Site C	59.5	NA	143.2	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0047	U	Site B	49.1	NA	165.6	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0048	M	Site A	48.3	NA	108.9	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0049	M	Site C	60.5	NA	166.1	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0050	U	Site B	25.1	NA	149.3	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0051	M	Site A	15.0	NA	216.0	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0052	U	Site A	36.9	NA	172.4	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0053	M	Site A	27.1	NA	143.5	NA	NA	NA	NA	NA	NA	2
+lab3_clinic	S0054	U	Site A	20.5	NA	168.0	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0055	U	Site A	14.8	NA	160.1	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0056	M	Site B	16.1	NA	77.2	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0057	F	Site C	40.0	NA	88.8	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0058	F	Site C	54.0	NA	142.8	NA	NA	NA	NA	NA	NA	0
+lab3_clinic	S0059	M	Site A	58.3	NA	148.9	NA	NA	NA	NA	NA	NA	1
+lab3_clinic	S0060	U	Site A	56.4	NA	186.6	NA	NA	NA	NA	NA	NA	0
+tcga_luad	TCGA-05-4244	M	Indivumed	70.0	IV	NA	6.4	0	1	0	0	0	0
+tcga_luad	TCGA-05-4249	M	Indivumed	67.0	IB	NA	10.0	0	1	0	0	0	0
+tcga_luad	TCGA-05-4250	F	Indivumed	79.0	IIIA	NA	10.5	0	1	0	0	0	0
+tcga_luad	TCGA-05-4382	M	Indivumed	68.0	IB	NA	51.73333333	1	0	2	0	0	0
+tcga_luad	TCGA-05-4384	M	Indivumed	66.0	IIIA	NA	3.966666667	1	0	0	0	1	0
+tcga_luad	TCGA-05-4389	M	Indivumed	70.0	IA	NA	7.033333333	0	0	0	0	1	0
+tcga_luad	TCGA-05-4390	F	Indivumed	58.0	IB	NA	17.33333333	0	1	0	0	0	0
+tcga_luad	TCGA-05-4395	M	Indivumed	76.0	IIIB	NA	7.7	1	1	0	1	1	0
+tcga_luad	TCGA-05-4396	M	Indivumed	76.0	IIIB	NA	43.26666667	1	0	0	0	0	0
+tcga_luad	TCGA-05-4397	M	Indivumed	65.0	IIB	NA	24.86666667	1	0	0	0	0	0
+tcga_luad	TCGA-05-4398	F	Indivumed	47.0	IIIB	NA	22.36666667	1	0	0	0	0	0
+tcga_luad	TCGA-05-4402	F	Indivumed	57.0	IV	NA	4.033333333	1	0	2	0	0	0
+tcga_luad	TCGA-05-4403	M	Indivumed	76.0	IB	NA	4.166666667	0	1	0	0	0	0
+tcga_luad	TCGA-05-4405	F	Indivumed	74.0	IB	NA	12.16666667	2	1	0	0	0	0
+tcga_luad	TCGA-05-4410	M	Indivumed	62.0	IB	NA	33.8	1	0	1	0	0	0
+tcga_luad	TCGA-05-4415	M	Indivumed	57.0	IIIB	NA	6.233333333	0	1	0	1	0	0
+tcga_luad	TCGA-05-4417	F	Indivumed	51.0	IB	NA	9.633333333	0	1	0	1	0	0
+tcga_luad	TCGA-05-4418	M	Indivumed	69.0	IIIA	NA	8.233333333	0	1	0	0	1	0
+tcga_luad	TCGA-05-4420	M	Indivumed	41.0	IB	NA	8.566666667	1	0	0	0	0	0
+tcga_luad	TCGA-05-4422	M	Indivumed	68.0	IB	NA	1.333333333	0	0	0	1	0	0
+tcga_luad	TCGA-05-4424	M	Indivumed	70.0	IIB	NA	22.53333333	1	0	0	0	0	0
+tcga_luad	TCGA-05-4425	F	Indivumed	70.0	IV	NA	1.333333333	0	0	0	0	0	0
+tcga_luad	TCGA-05-4426	M	Indivumed	71.0	IB	NA	1.466666667	1	0	0	0	0	0
+tcga_luad	TCGA-05-4427	F	Indivumed	65.0	IIB	NA	31.66666667	1	1	0	0	0	0
+tcga_luad	TCGA-05-4430	F	Indivumed	59.0	IB	NA	8.733333333	1	0	0	0	0	0
+tcga_luad	TCGA-05-4432	M	Indivumed	66.0	IIB	NA	17.83333333	2	0	0	2	0	0
+tcga_luad	TCGA-05-4433	M	Indivumed	82.0	IB	NA	1.1	1	1	0	0	0	0
+tcga_luad	TCGA-05-4434	F	Indivumed	67.0	IV	NA	1.466666667	0	0	0	0	0	0
+tcga_luad	TCGA-05-5423	M	Indivumed	65.0	IIB	NA	4.6	2	0	2	0	0	0
+tcga_luad	TCGA-05-5425	M	Indivumed	68.0	IIB	NA	17.96666667	1	0	0	1	0	0
+tcga_luad	TCGA-05-5428	M	Indivumed	57.0	IIA	NA	11.7	1	0	0	0	0	0
+tcga_luad	TCGA-05-5429	M	Indivumed	60.0	IIIA	NA	1.133333333	0	0	0	0	0	0
+tcga_luad	TCGA-05-5715	F	Indivumed	69.0	IB	NA	3.533333333	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z000	NA	Washington University	NA	NA	NA	3.866666667	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z001	NA	Washington University	NA	NA	NA	6.7	1	0	0	0	1	0
+tcga_luad	TCGA-17-Z002	NA	Washington University	NA	NA	NA	0.433333333	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z003	NA	Washington University	NA	NA	NA	7.833333333	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z004	NA	Washington University	NA	NA	NA	0.666666667	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z005	NA	Washington University	NA	NA	NA	3.3	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z007	NA	Washington University	NA	NA	NA	2.366666667	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z009	NA	Washington University	NA	NA	NA	1.666666667	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z010	NA	Washington University	NA	NA	NA	8.2	0	1	0	0	0	0
+tcga_luad	TCGA-17-Z011	NA	Washington University	NA	NA	NA	3.466666667	0	0	0	0	1	0
+tcga_luad	TCGA-17-Z013	NA	Washington University	NA	NA	NA	1.933333333	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z014	NA	Washington University	NA	NA	NA	11.5	0	1	0	0	0	0
+tcga_luad	TCGA-17-Z015	NA	Washington University	NA	NA	NA	15.63333333	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z016	NA	Washington University	NA	NA	NA	9.033333333	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z017	NA	Washington University	NA	NA	NA	6.7	1	1	0	0	0	0
+tcga_luad	TCGA-17-Z018	NA	Washington University	NA	NA	NA	7.8	0	0	0	0	1	0
+tcga_luad	TCGA-17-Z019	NA	Washington University	NA	NA	NA	0.1	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z020	NA	Washington University	NA	NA	NA	4.066666667	1	1	0	0	0	0
+tcga_luad	TCGA-17-Z021	NA	Washington University	NA	NA	NA	5.0	2	0	0	0	0	0
+tcga_luad	TCGA-17-Z022	NA	Washington University	NA	NA	NA	36.1	1	1	0	0	0	0
+tcga_luad	TCGA-17-Z023	NA	Washington University	NA	NA	NA	12.06666667	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z025	NA	Washington University	NA	NA	NA	7.666666667	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z026	NA	Washington University	NA	NA	NA	29.16666667	1	0	1	0	1	0
+tcga_luad	TCGA-17-Z027	NA	Washington University	NA	NA	NA	2.733333333	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z028	NA	Washington University	NA	NA	NA	14.86666667	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z030	NA	Washington University	NA	NA	NA	17.5	1	0	0	0	1	0
+tcga_luad	TCGA-17-Z031	NA	Washington University	NA	NA	NA	69.53333333	2	0	0	0	0	0
+tcga_luad	TCGA-17-Z032	NA	Washington University	NA	NA	NA	3.466666667	0	0	1	0	0	0
+tcga_luad	TCGA-17-Z033	NA	Washington University	NA	NA	NA	4.9	0	1	0	0	0	0
+tcga_luad	TCGA-17-Z036	NA	Washington University	NA	NA	NA	2.333333333	0	1	0	0	1	0
+tcga_luad	TCGA-17-Z037	NA	Washington University	NA	NA	NA	4.1	1	1	0	0	0	0
+tcga_luad	TCGA-17-Z041	NA	Washington University	NA	NA	NA	2.1	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z042	NA	Washington University	NA	NA	NA	13.86666667	1	1	0	0	0	0
+tcga_luad	TCGA-17-Z043	NA	Washington University	NA	NA	NA	6.0	1	0	0	0	1	0
+tcga_luad	TCGA-17-Z044	NA	Washington University	NA	NA	NA	3.333333333	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z045	NA	Washington University	NA	NA	NA	20.2	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z047	NA	Washington University	NA	NA	NA	0.9	1	0	1	0	0	0
+tcga_luad	TCGA-17-Z048	NA	Washington University	NA	NA	NA	1.2	0	0	1	0	0	0
+tcga_luad	TCGA-17-Z049	NA	Washington University	NA	NA	NA	16.43333333	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z050	NA	Washington University	NA	NA	NA	5.566666667	1	1	0	0	0	0
+tcga_luad	TCGA-17-Z051	NA	Washington University	NA	NA	NA	5.6	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z052	NA	Washington University	NA	NA	NA	4.8	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z053	NA	Washington University	NA	NA	NA	9.033333333	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z054	NA	Washington University	NA	NA	NA	0.433333333	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z055	NA	Washington University	NA	NA	NA	23.5	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z056	NA	Washington University	NA	NA	NA	16.06666667	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z057	NA	Washington University	NA	NA	NA	12.66666667	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z058	NA	Washington University	NA	NA	NA	3.066666667	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z059	NA	Washington University	NA	NA	NA	4.866666667	0	0	0	0	0	0
+tcga_luad	TCGA-17-Z060	NA	Washington University	NA	NA	NA	7.266666667	0	1	0	0	0	0
+tcga_luad	TCGA-17-Z061	NA	Washington University	NA	NA	NA	5.033333333	1	0	0	0	0	0
+tcga_luad	TCGA-17-Z062	NA	Washington University	NA	NA	NA	14.86666667	1	0	0	0	0	0
+tcga_luad	TCGA-35-3615	M	Cureline	57.0	IB	NA	3.433333333	0	1	0	1	1	0
+tcga_luad	TCGA-35-4122	M	Cureline	69.0	IA	NA	9.733333333	2	0	0	0	0	0
+tcga_luad	TCGA-35-4123	M	Cureline	38.0	IA	NA	8.2	1	0	0	0	0	0
+tcga_luad	TCGA-35-5375	M	Cureline	61.0	IIIA	NA	12.9	1	0	0	0	1	0
+tcga_luad	TCGA-38-4625	F	UNC	66.0	IB	NA	17.96666667	0	0	0	0	0	0
+tcga_luad	TCGA-38-4626	F	UNC	57.0	IIA	NA	8.033333333	0	0	0	0	0	0
+tcga_luad	TCGA-38-4627	F	UNC	64.0	IIA	NA	0.966666667	0	0	2	0	0	0
+tcga_luad	TCGA-38-4628	F	UNC	65.0	IIB	NA	3.733333333	0	0	1	0	0	0
+tcga_luad	TCGA-38-4631	F	UNC	72.0	IB	NA	23.06666667	0	0	0	0	1	0
+tcga_luad	TCGA-38-4632	M	UNC	42.0	IV	NA	16.73333333	1	0	0	0	0	0
+tcga_luad	TCGA-38-6178	F	UNC	70.0	IIIA	NA	2.233333333	1	0	1	0	0	0
+tcga_luad	TCGA-38-7271	F	UNC	72.0	IA	NA	2.9	0	0	0	0	0	0
+tcga_luad	TCGA-38-A44F	M	UNC	80.0	IB	NA	0.366666667	0	0	0	0	0	0
+tcga_luad	TCGA-44-2655	F	Christiana Healthcare	65.0	IA	NA	5.5	0	0	0	0	1	0
+tcga_luad	TCGA-44-2656	M	Christiana Healthcare	59.0	IB	NA	50.7	1	0	0	0	0	0
+tcga_luad	TCGA-44-2657	F	Christiana Healthcare	74.0	IB	NA	23.76666667	0	0	0	0	0	0
+tcga_luad	TCGA-44-2659	F	Christiana Healthcare	65.0	IIB	NA	25.86666667	1	0	0	0	0	0
+tcga_luad	TCGA-44-2662	M	Christiana Healthcare	65.0	IB	NA	12.43333333	1	0	0	0	0	0
+tcga_luad	TCGA-44-2665	F	Christiana Healthcare	55.0	IIB	NA	2.733333333	0	0	0	0	0	0
+tcga_luad	TCGA-44-2666	M	Christiana Healthcare	43.0	IB	NA	2.4	0	0	0	0	0	0
+tcga_luad	TCGA-44-2668	M	Christiana Healthcare	51.0	IB	NA	21.06666667	1	0	0	0	0	0
+tcga_luad	TCGA-44-3396	F	Christiana Healthcare	74.0	IIIA	NA	12.2	1	0	0	0	0	0
+tcga_luad	TCGA-44-3398	F	Christiana Healthcare	77.0	IA	NA	11.43333333	0	0	0	0	0	0
+tcga_luad	TCGA-44-3917	F	Christiana Healthcare	33.0	IB	NA	6.666666667	1	1	0	0	1	0
+tcga_luad	TCGA-44-3918	F	Christiana Healthcare	60.0	IA	NA	58.33333333	1	0	0	0	0	0
+tcga_luad	TCGA-44-3919	F	Christiana Healthcare	71.0	IA	NA	3.366666667	0	0	0	0	0	0
+tcga_luad	TCGA-44-4112	F	Christiana Healthcare	60.0	IB	NA	29.0	0	0	0	0	0	0
+tcga_luad	TCGA-44-5643	M	Christiana Healthcare	53.0	IIIA	NA	7.433333333	0	0	0	0	0	0
+tcga_luad	TCGA-44-5644	F	Christiana Healthcare	51.0	IB	NA	60.2	1	0	0	0	0	0
+tcga_luad	TCGA-44-5645	F	Christiana Healthcare	61.0	IA	NA	2.366666667	1	0	1	0	0	0
+tcga_luad	TCGA-44-6144	M	Christiana Healthcare	58.0	IA	NA	13.1	1	1	0	1	0	0
+tcga_luad	TCGA-44-6145	F	Christiana Healthcare	62.0	IA	NA	19.56666667	1	1	0	0	0	0
+tcga_luad	TCGA-44-6146	M	Christiana Healthcare	64.0	IIB	NA	2.5	0	1	0	0	0	0
+tcga_luad	TCGA-44-6148	M	Christiana Healthcare	60.0	IA	NA	0.433333333	0	0	0	0	0	0
+tcga_luad	TCGA-44-6774	F	Christiana Healthcare	56.0	IIIA	NA	18.5	1	0	0	0	0	0
+tcga_luad	TCGA-44-6775	F	Christiana Healthcare	72.0	IB	NA	4.166666667	1	0	0	0	0	0
+tcga_luad	TCGA-44-6776	F	Christiana Healthcare	60.0	IA	NA	12.46666667	0	1	0	1	1	0
+tcga_luad	TCGA-44-6777	F	Christiana Healthcare	85.0	IB	NA	22.53333333	1	0	0	0	0	0
+tcga_luad	TCGA-44-6778	M	Christiana Healthcare	59.0	IA	NA	23.43333333	1	0	0	0	1	0
+tcga_luad	TCGA-44-6779	F	Christiana Healthcare	50.0	IIB	NA	3.033333333	1	0	0	1	1	0
+tcga_luad	TCGA-44-7659	M	Christiana Healthcare	70.0	IA	NA	9.2	0	1	0	0	0	0
+tcga_luad	TCGA-44-7660	M	Christiana Healthcare	72.0	IB	NA	22.26666667	1	0	0	0	1	0
+tcga_luad	TCGA-44-7661	F	Christiana Healthcare	69.0	IB	NA	18.16666667	1	1	0	0	0	0
+tcga_luad	TCGA-44-7662	M	Christiana Healthcare	61.0	IB	NA	36.23333333	1	0	0	0	0	0
+tcga_luad	TCGA-44-7667	F	Christiana Healthcare	49.0	IIB	NA	28.46666667	1	0	0	0	1	0
+tcga_luad	TCGA-44-7669	M	Christiana Healthcare	59.0	IIA	NA	27.83333333	0	0	0	1	1	0
+tcga_luad	TCGA-44-7670	F	Christiana Healthcare	47.0	IIA	NA	67.2	1	0	0	0	0	0
+tcga_luad	TCGA-44-7671	M	Christiana Healthcare	64.0	IB	NA	13.3	0	1	0	1	1	0
+tcga_luad	TCGA-44-7672	F	Christiana Healthcare	52.0	IA	NA	10.26666667	0	1	0	0	0	0
+tcga_luad	TCGA-44-8117	F	Christiana Healthcare	54.0	IB	NA	22.7	1	1	0	0	0	0
+tcga_luad	TCGA-44-8119	M	Christiana Healthcare	73.0	IIB	NA	19.36666667	0	0	0	2	0	0
+tcga_luad	TCGA-44-8120	M	Christiana Healthcare	58.0	IB	NA	18.13333333	1	0	0	1	0	0
+tcga_luad	TCGA-44-A479	F	Christiana Healthcare	73.0	IB	NA	9.333333333	1	0	0	1	0	0
+tcga_luad	TCGA-44-A47A	F	Christiana Healthcare	78.0	IB	NA	6.966666667	0	1	0	0	0	0
+tcga_luad	TCGA-44-A47B	M	Christiana Healthcare	79.0	IB	NA	1.333333333	0	0	0	0	0	0
+tcga_luad	TCGA-44-A47F	M	Christiana Healthcare	74.0	IIB	NA	2.633333333	0	1	0	1	1	0
+tcga_luad	TCGA-44-A47G	F	Christiana Healthcare	73.0	IA	NA	2.633333333	1	0	0	0	0	0
+tcga_luad	TCGA-44-A4SS	M	Christiana Healthcare	73.0	IA	NA	14.9	2	0	0	0	1	0
+tcga_luad	TCGA-44-A4SU	F	Christiana Healthcare	67.0	IA	NA	4.433333333	1	0	2	0	0	0
+tcga_luad	TCGA-49-4486	M	Johns Hopkins	72.0	IA	NA	4.8	0	0	0	0	1	0
+tcga_luad	TCGA-49-4487	F	Johns Hopkins	72.0	IA	NA	11.46666667	2	0	0	1	0	0
+tcga_luad	TCGA-49-4488	F	Johns Hopkins	74.0	IA	NA	9.033333333	0	0	0	0	1	0
+tcga_luad	TCGA-49-4490	F	Johns Hopkins	45.0	IIIA	NA	1.6	1	0	1	0	0	0
+tcga_luad	TCGA-49-4494	M	Johns Hopkins	77.0	IIIA	NA	5.733333333	0	0	2	0	0	0
+tcga_luad	TCGA-49-4501	F	Johns Hopkins	67.0	IB	NA	1.6	0	0	1	0	0	0
+tcga_luad	TCGA-49-4505	F	Johns Hopkins	61.0	IIB	NA	6.3	1	1	0	0	0	0
+tcga_luad	TCGA-49-4506	F	Johns Hopkins	68.0	IIB	NA	3.9	0	1	0	0	1	0
+tcga_luad	TCGA-49-4507	F	Johns Hopkins	73.0	IIIA	NA	6.133333333	0	0	0	1	1	0
+tcga_luad	TCGA-49-4510	F	Johns Hopkins	51.0	IIB	NA	1.9	0	1	0	0	0	0
+tcga_luad	TCGA-49-4512	F	Johns Hopkins	69.0	IIIA	NA	1.4	0	0	0	0	0	0
+tcga_luad	TCGA-49-4514	F	Johns Hopkins	79.0	IA	NA	9.8	1	0	0	0	1	0
+tcga_luad	TCGA-49-6742	M	Johns Hopkins	70.0	IIA	NA	7.8	0	0	0	0	1	0
+tcga_luad	TCGA-49-6743	F	Johns Hopkins	81.0	IIIA	NA	23.06666667	0	0	0	0	2	0
+tcga_luad	TCGA-49-6744	F	Johns Hopkins	64.0	IIA	NA	7.433333333	0	0	0	0	0	0
+tcga_luad	TCGA-49-6745	M	Johns Hopkins	82.0	IIIA	NA	4.3	0	0	0	0	0	0
+tcga_luad	TCGA-49-6761	F	Johns Hopkins	68.0	IIIA	NA	9.433333333	0	0	0	0	0	0
+tcga_luad	TCGA-49-6767	F	Johns Hopkins	46.0	IIB	NA	14.06666667	1	0	0	0	0	0
+tcga_luad	TCGA-49-AAQV	F	Johns Hopkins	63.0	II	NA	2.233333333	1	0	0	0	0	0
+tcga_luad	TCGA-49-AAR0	M	Johns Hopkins	57.0	IA	NA	4.066666667	1	0	0	1	1	0
+tcga_luad	TCGA-49-AAR2	M	Johns Hopkins	64.0	IB	NA	12.13333333	0	0	0	0	1	0
+tcga_luad	TCGA-49-AAR3	M	Johns Hopkins	69.0	IIB	NA	4.266666667	1	0	0	0	1	0
+tcga_luad	TCGA-49-AAR4	M	Johns Hopkins	51.0	IIIA	NA	17.56666667	1	0	0	0	0	0
+tcga_luad	TCGA-49-AAR9	M	Johns Hopkins	61.0	IIB	NA	18.86666667	1	0	0	0	1	0
+tcga_luad	TCGA-49-AARE	F	Johns Hopkins	51.0	IA	NA	40.0	1	0	0	0	1	0
+tcga_luad	TCGA-49-AARN	F	Johns Hopkins	56.0	IA	NA	23.1	1	0	0	0	0	0
+tcga_luad	TCGA-49-AARO	F	Johns Hopkins	39.0	IA	NA	18.03333333	0	1	0	0	0	0
+tcga_luad	TCGA-49-AARQ	F	Johns Hopkins	41.0	I	NA	21.43333333	1	1	0	0	0	0
+tcga_luad	TCGA-49-AARR	M	Johns Hopkins	68.0	IA	NA	0.066666667	0	0	0	0	0	0
+tcga_luad	TCGA-4B-A93V	F	Mary Bird Perkins Cancer Center - Our Lady of the Lake	52.0	IA	NA	4.1	1	1	0	1	1	0
+tcga_luad	TCGA-50-5044	F	University of Pittsburgh	72.0	IIIB	NA	4.066666667	0	0	0	0	0	0
+tcga_luad	TCGA-50-5045	F	University of Pittsburgh	57.0	IA	NA	9.866666667	1	0	0	0	0	0
+tcga_luad	TCGA-50-5049	M	University of Pittsburgh	70.0	IA	NA	24.83333333	1	0	0	0	0	0
+tcga_luad	TCGA-50-5051	F	University of Pittsburgh	42.0	IIIA	NA	3.466666667	0	1	0	0	1	0
+tcga_luad	TCGA-50-5055	F	University of Pittsburgh	79.0	IIA	NA	0.7	0	0	0	0	0	0
+tcga_luad	TCGA-50-5066	M	University of Pittsburgh	72.0	IB	NA	8.833333333	1	0	0	0	0	0
+tcga_luad	TCGA-50-5068	F	University of Pittsburgh	59.0	IIB	NA	2.866666667	1	0	0	0	1	0
+tcga_luad	TCGA-50-5072	M	University of Pittsburgh	74.0	IIIA	NA	5.2	0	0	0	1	0	0
+tcga_luad	TCGA-50-5930	M	University of Pittsburgh	47.0	IIIA	NA	34.5	1	0	0	0	0	0
+tcga_luad	TCGA-50-5931	F	University of Pittsburgh	75.0	IB	NA	9.266666667	1	0	0	0	0	0
+tcga_luad	TCGA-50-5932	M	University of Pittsburgh	75.0	IIB	NA	2.3	0	1	0	0	0	0
+tcga_luad	TCGA-50-5933	M	University of Pittsburgh	72.0	IIIB	NA	16.5	2	1	0	0	0	0
+tcga_luad	TCGA-50-5935	F	University of Pittsburgh	86.0	IA	NA	3.033333333	0	0	0	0	0	0
+tcga_luad	TCGA-50-5936	M	University of Pittsburgh	58.0	IIIA	NA	3.6	0	1	0	0	1	0
+tcga_luad	TCGA-50-5939	M	University of Pittsburgh	85.0	IB	NA	2.466666667	1	0	0	1	1	0
+tcga_luad	TCGA-50-5941	F	University of Pittsburgh	55.0	IIIA	NA	12.23333333	0	1	0	0	0	0
+tcga_luad	TCGA-50-5942	F	University of Pittsburgh	67.0	IA	NA	1.966666667	0	0	0	0	0	0
+tcga_luad	TCGA-50-5944	F	University of Pittsburgh	69.0	IA	NA	1.866666667	1	0	1	0	0	0
+tcga_luad	TCGA-50-5946	M	University of Pittsburgh	62.0	IA	NA	19.56666667	1	0	0	0	0	0
+tcga_luad	TCGA-50-6590	F	University of Pittsburgh	72.0	IB	NA	27.63333333	1	0	0	0	0	0
+tcga_luad	TCGA-50-6591	F	University of Pittsburgh	63.0	IV	NA	1.866666667	1	0	2	0	0	0
+tcga_luad	TCGA-50-6592	F	University of Pittsburgh	71.0	IB	NA	8.833333333	1	0	0	0	0	0
+tcga_luad	TCGA-50-6593	F	University of Pittsburgh	49.0	IIIA	NA	9.566666667	1	0	0	0	0	0
+tcga_luad	TCGA-50-6594	F	University of Pittsburgh	79.0	IIIA	NA	16.33333333	1	0	0	0	0	0
+tcga_luad	TCGA-50-6595	F	University of Pittsburgh	74.0	IIIA	NA	3.3	2	0	2	0	0	0
+tcga_luad	TCGA-50-6597	F	University of Pittsburgh	79.0	IB	NA	1.733333333	0	0	0	0	0	0
+tcga_luad	TCGA-50-6673	F	University of Pittsburgh	84.0	I	NA	2.866666667	1	0	1	0	0	0
+tcga_luad	TCGA-50-7109	M	University of Pittsburgh	60.0	IA	NA	8.0	0	1	0	1	0	0
+tcga_luad	TCGA-50-8457	F	University of Pittsburgh	63.0	IA	NA	1.766666667	0	0	0	0	0	0
+tcga_luad	TCGA-50-8459	M	University of Pittsburgh	68.0	IIB	NA	2.533333333	0	1	0	0	0	0
+tcga_luad	TCGA-50-8460	M	University of Pittsburgh	74.0	IA	NA	1.033333333	1	0	0	0	0	0
+tcga_luad	TCGA-53-7624	F	University of Miami	40.0	IV	NA	24.8	1	0	0	0	1	0
+tcga_luad	TCGA-53-7626	F	University of Miami	76.0	IIA	NA	35.06666667	1	0	0	0	0	0
+tcga_luad	TCGA-53-7813	F	University of Miami	51.0	IIIB	NA	4.866666667	0	1	0	1	0	0
+tcga_luad	TCGA-53-A4EZ	M	University of Miami	63.0	IIA	NA	15.13333333	1	0	0	0	1	0
+tcga_luad	TCGA-55-1592	M	International Genomics Consortium	65.0	IA	NA	16.36666667	1	0	0	0	0	0
+tcga_luad	TCGA-55-1594	M	International Genomics Consortium	68.0	IIIA	NA	5.6	1	0	0	0	0	0
+tcga_luad	TCGA-55-1595	F	International Genomics Consortium	74.0	IA	NA	9.933333333	0	1	0	0	0	0
+tcga_luad	TCGA-55-1596	M	International Genomics Consortium	55.0	IIB	NA	5.866666667	1	0	0	2	0	0
+tcga_luad	TCGA-55-5899	M	International Genomics Consortium	58.0	IA	NA	12.86666667	1	0	0	0	1	0
+tcga_luad	TCGA-55-6543	F	International Genomics Consortium	60.0	IA	NA	0.766666667	0	0	0	0	0	0
+tcga_luad	TCGA-55-6642	M	International Genomics Consortium	63.0	IB	NA	4.066666667	0	1	0	0	0	0
+tcga_luad	TCGA-55-6712	M	International Genomics Consortium	71.0	IIA	NA	4.3	1	0	0	0	0	0
+tcga_luad	TCGA-55-6968	M	International Genomics Consortium	61.0	IV	NA	15.4	1	0	1	0	0	0
+tcga_luad	TCGA-55-6969	M	International Genomics Consortium	52.0	IB	NA	14.3	1	0	0	0	0	0
+tcga_luad	TCGA-55-6970	F	International Genomics Consortium	67.0	IIIA	NA	5.866666667	0	1	0	1	1	0
+tcga_luad	TCGA-55-6971	F	International Genomics Consortium	59.0	IB	NA	6.8	0	0	0	0	0	0
+tcga_luad	TCGA-55-6972	M	International Genomics Consortium	72.0	IB	NA	8.8	0	0	0	0	1	0
+tcga_luad	TCGA-55-6975	M	International Genomics Consortium	61.0	IIB	NA	2.866666667	1	1	0	0	0	0
+tcga_luad	TCGA-55-6978	M	International Genomics Consortium	81.0	IIA	NA	1.866666667	0	0	0	0	0	0
+tcga_luad	TCGA-55-6979	F	International Genomics Consortium	59.0	IIB	NA	17.86666667	2	0	0	0	0	0
+tcga_luad	TCGA-55-6980	M	International Genomics Consortium	56.0	IA	NA	1.0	1	0	1	0	0	0
+tcga_luad	TCGA-55-6981	F	International Genomics Consortium	53.0	IIIA	NA	6.733333333	0	0	1	0	0	0
+tcga_luad	TCGA-55-6982	F	International Genomics Consortium	79.0	IIB	NA	7.2	0	0	0	0	0	0
+tcga_luad	TCGA-55-6983	M	International Genomics Consortium	81.0	IIB	NA	3.5	0	1	0	0	0	0
+tcga_luad	TCGA-55-6984	F	International Genomics Consortium	71.0	IIB	NA	1.066666667	0	1	0	0	0	0
+tcga_luad	TCGA-55-6985	F	International Genomics Consortium	58.0	IB	NA	14.53333333	1	0	0	0	0	0
+tcga_luad	TCGA-55-6986	F	International Genomics Consortium	74.0	IB	NA	0.766666667	0	0	0	0	0	0
+tcga_luad	TCGA-55-6987	M	International Genomics Consortium	77.0	IA	NA	7.133333333	0	0	0	0	1	0
+tcga_luad	TCGA-55-7227	M	International Genomics Consortium	77.0	IIIA	NA	5.0	1	0	0	0	0	0
+tcga_luad	TCGA-55-7281	F	International Genomics Consortium	70.0	IA	NA	28.83333333	0	1	0	0	0	0
+tcga_luad	TCGA-55-7283	F	International Genomics Consortium	76.0	IIIA	NA	14.06666667	1	1	0	0	0	0
+tcga_luad	TCGA-55-7284	M	International Genomics Consortium	74.0	IIB	NA	1.333333333	0	1	0	0	0	0
+tcga_luad	TCGA-55-7570	M	International Genomics Consortium	60.0	IA	NA	23.56666667	1	0	1	0	0	0
+tcga_luad	TCGA-55-7573	F	International Genomics Consortium	72.0	IA	NA	1.666666667	1	0	2	0	0	0
+tcga_luad	TCGA-55-7574	F	International Genomics Consortium	64.0	IB	NA	16.43333333	1	0	0	1	0	0
+tcga_luad	TCGA-55-7576	M	International Genomics Consortium	54.0	IB	NA	24.26666667	1	1	0	0	0	0
+tcga_luad	TCGA-55-7724	F	International Genomics Consortium	76.0	IB	NA	7.2	0	0	0	0	0	0
+tcga_luad	TCGA-55-7725	F	International Genomics Consortium	68.0	IA	NA	3.933333333	0	1	0	0	0	0
+tcga_luad	TCGA-55-7726	F	International Genomics Consortium	72.0	IA	NA	3.7	1	1	0	0	0	0
+tcga_luad	TCGA-55-7727	M	International Genomics Consortium	70.0	IIIA	NA	7.366666667	1	0	0	0	0	0
+tcga_luad	TCGA-55-7728	F	International Genomics Consortium	64.0	IB	NA	2.9	0	1	0	0	0	0
+tcga_luad	TCGA-55-7815	M	International Genomics Consortium	76.0	IB	NA	4.233333333	0	1	0	0	1	0
+tcga_luad	TCGA-55-7816	F	International Genomics Consortium	49.0	IV	NA	0.066666667	0	0	0	0	0	0
+tcga_luad	TCGA-55-7903	M	International Genomics Consortium	64.0	IA	NA	4.666666667	2	0	0	0	0	0
+tcga_luad	TCGA-55-7907	M	International Genomics Consortium	77.0	IIA	NA	35.53333333	1	1	0	0	0	0
+tcga_luad	TCGA-55-7910	F	International Genomics Consortium	50.0	IIA	NA	9.566666667	1	1	0	0	0	0
+tcga_luad	TCGA-55-7911	F	International Genomics Consortium	70.0	IA	NA	7.0	1	2	0	0	0	0
+tcga_luad	TCGA-55-7913	F	International Genomics Consortium	61.0	IA	NA	10.33333333	0	0	0	1	0	0
+tcga_luad	TCGA-55-7914	F	International Genomics Consortium	71.0	IIA	NA	5.366666667	1	1	0	0	0	0
+tcga_luad	TCGA-55-7994	M	International Genomics Consortium	81.0	IIB	NA	46.63333333	1	0	0	0	0	0
+tcga_luad	TCGA-55-7995	F	International Genomics Consortium	73.0	IA	NA	20.2	1	0	0	0	1	0
+tcga_luad	TCGA-55-8085	M	International Genomics Consortium	64.0	IA	NA	7.5	1	0	0	0	1	0
+tcga_luad	TCGA-55-8087	F	International Genomics Consortium	59.0	IB	NA	1.133333333	0	0	0	0	0	0
+tcga_luad	TCGA-55-8089	M	International Genomics Consortium	56.0	IA	NA	36.33333333	1	0	0	0	0	0
+tcga_luad	TCGA-55-8090	M	International Genomics Consortium	80.0	IA	NA	2.566666667	0	1	0	0	0	0
+tcga_luad	TCGA-55-8091	M	International Genomics Consortium	74.0	IB	NA	0.966666667	0	0	0	0	0	0
+tcga_luad	TCGA-55-8092	M	International Genomics Consortium	75.0	IIB	NA	16.43333333	1	0	0	1	0	0
+tcga_luad	TCGA-55-8094	M	International Genomics Consortium	51.0	IV	NA	13.23333333	1	1	0	0	1	0
+tcga_luad	TCGA-55-8096	F	International Genomics Consortium	67.0	IB	NA	4.4	1	0	1	0	0	0
+tcga_luad	TCGA-55-8097	F	International Genomics Consortium	60.0	IA	NA	3.333333333	0	1	0	0	0	0
+tcga_luad	TCGA-55-8203	F	International Genomics Consortium	69.0	IA	NA	12.86666667	0	1	0	1	0	0
+tcga_luad	TCGA-55-8204	F	International Genomics Consortium	87.0	IB	NA	6.433333333	1	0	0	0	0	0
+tcga_luad	TCGA-55-8205	F	International Genomics Consortium	76.0	IIA	NA	15.8	1	0	0	0	0	0
+tcga_luad	TCGA-55-8206	M	International Genomics Consortium	56.0	IA	NA	0.9	0	0	1	0	0	0
+tcga_luad	TCGA-55-8207	M	International Genomics Consortium	73.0	IB	NA	9.266666667	0	1	0	0	0	0
+tcga_luad	TCGA-55-8208	F	International Genomics Consortium	73.0	IA	NA	10.6	1	0	0	0	0	0
+tcga_luad	TCGA-55-8299	F	International Genomics Consortium	61.0	IA	NA	12.16666667	0	1	0	1	0	0
+tcga_luad	TCGA-55-8301	M	International Genomics Consortium	58.0	IB	NA	8.7	2	0	0	0	0	0
+tcga_luad	TCGA-55-8302	M	International Genomics Consortium	54.0	IB	NA	20.63333333	1	1	0	0	1	0
+tcga_luad	TCGA-55-8505	M	International Genomics Consortium	62.0	IIIA	NA	0.933333333	0	0	0	0	1	0
+tcga_luad	TCGA-55-8506	F	International Genomics Consortium	62.0	IIB	NA	52.9	1	0	1	0	1	0
+tcga_luad	TCGA-55-8507	M	International Genomics Consortium	53.0	IA	NA	29.26666667	1	0	0	1	0	0
+tcga_luad	TCGA-55-8508	F	International Genomics Consortium	60.0	IIA	NA	5.5	0	1	0	1	0	0
+tcga_luad	TCGA-55-8510	F	International Genomics Consortium	55.0	IB	NA	9.1	1	0	0	0	1	0
+tcga_luad	TCGA-55-8511	F	International Genomics Consortium	73.0	IB	NA	17.16666667	1	0	0	0	0	0
+tcga_luad	TCGA-55-8512	M	International Genomics Consortium	41.0	IV	NA	1.166666667	0	1	0	0	0	0
+tcga_luad	TCGA-55-8513	F	International Genomics Consortium	77.0	IIB	NA	0.166666667	0	0	0	0	0	0
+tcga_luad	TCGA-55-8514	F	International Genomics Consortium	70.0	IB	NA	8.333333333	1	1	0	0	0	0
+tcga_luad	TCGA-55-8614	M	International Genomics Consortium	76.0	IB	NA	6.8	1	0	0	0	0	0
+tcga_luad	TCGA-55-8615	M	International Genomics Consortium	67.0	IIIA	NA	3.333333333	0	1	0	1	0	0
+tcga_luad	TCGA-55-8616	F	International Genomics Consortium	58.0	IB	NA	14.5	1	1	0	0	0	0
+tcga_luad	TCGA-55-8619	F	International Genomics Consortium	72.0	IIB	NA	0.666666667	0	0	0	0	0	0
+tcga_luad	TCGA-55-8620	M	International Genomics Consortium	60.0	IV	NA	14.53333333	1	0	0	0	1	0
+tcga_luad	TCGA-55-8621	F	International Genomics Consortium	75.0	IA	NA	2.266666667	0	0	0	0	0	0
+tcga_luad	TCGA-55-A48X	F	International Genomics Consortium	63.0	IIA	NA	12.1	1	0	0	0	0	0
+tcga_luad	TCGA-55-A48Y	M	International Genomics Consortium	69.0	IIA	NA	10.43333333	0	0	0	0	0	0
+tcga_luad	TCGA-55-A48Z	F	International Genomics Consortium	60.0	IIIB	NA	1.5	1	0	1	0	0	0
+tcga_luad	TCGA-55-A490	M	International Genomics Consortium	78.0	IIA	NA	39.76666667	0	1	0	0	0	0
+tcga_luad	TCGA-55-A491	F	International Genomics Consortium	81.0	IA	NA	11.23333333	1	0	0	0	0	0
+tcga_luad	TCGA-55-A492	F	International Genomics Consortium	70.0	IA	NA	8.633333333	0	0	0	1	1	0
+tcga_luad	TCGA-55-A493	F	International Genomics Consortium	54.0	IB	NA	7.9	1	0	0	0	0	0
+tcga_luad	TCGA-55-A494	F	International Genomics Consortium	61.0	IB	NA	7.066666667	0	1	0	0	0	0
+tcga_luad	TCGA-55-A4DF	M	International Genomics Consortium	88.0	IA	NA	22.73333333	1	0	0	0	1	0
+tcga_luad	TCGA-55-A4DG	M	International Genomics Consortium	71.0	IA	NA	20.9	1	0	0	0	0	0
+tcga_luad	TCGA-55-A57B	F	International Genomics Consortium	80.0	IA	NA	1.3	1	0	1	0	0	0
+tcga_luad	TCGA-62-8394	F	Thoraxklinik at University Hospital Heidelberg	65.0	IIIB	NA	3.933333333	1	0	1	0	0	0
+tcga_luad	TCGA-62-8395	F	Thoraxklinik at University Hospital Heidelberg	80.0	IIB	NA	2.433333333	0	0	0	0	0	0
+tcga_luad	TCGA-62-8397	F	Thoraxklinik at University Hospital Heidelberg	70.0	IIB	NA	0.8	0	0	0	0	0	0
+tcga_luad	TCGA-62-8398	M	Thoraxklinik at University Hospital Heidelberg	55.0	IIIA	NA	2.466666667	0	1	0	0	1	0
+tcga_luad	TCGA-62-8399	M	Thoraxklinik at University Hospital Heidelberg	62.0	IIIA	NA	15.53333333	1	0	0	0	0	0
+tcga_luad	TCGA-62-8402	F	Thoraxklinik at University Hospital Heidelberg	73.0	IIIA	NA	1.366666667	1	0	1	0	0	0
+tcga_luad	TCGA-62-A46O	F	Thoraxklinik at University Hospital Heidelberg	65.0	IB	NA	26.53333333	1	0	0	0	1	0
+tcga_luad	TCGA-62-A46P	M	Thoraxklinik at University Hospital Heidelberg	65.0	IB	NA	8.4	0	0	0	1	0	0
+tcga_luad	TCGA-62-A46R	F	Thoraxklinik at University Hospital Heidelberg	54.0	IB	NA	5.666666667	1	1	0	0	0	0
+tcga_luad	TCGA-62-A46S	M	Thoraxklinik at University Hospital Heidelberg	73.0	IB	NA	3.633333333	0	1	0	1	0	0
+tcga_luad	TCGA-62-A46U	F	Thoraxklinik at University Hospital Heidelberg	71.0	IIB	NA	1.333333333	1	0	1	0	0	0
+tcga_luad	TCGA-62-A46V	F	Thoraxklinik at University Hospital Heidelberg	78.0	IB	NA	1.766666667	0	0	0	0	0	0
+tcga_luad	TCGA-62-A46Y	F	Thoraxklinik at University Hospital Heidelberg	70.0	IIIA	NA	1.166666667	1	0	0	0	0	0
+tcga_luad	TCGA-62-A470	M	Thoraxklinik at University Hospital Heidelberg	84.0	IB	NA	3.533333333	0	0	0	1	1	0
+tcga_luad	TCGA-62-A471	M	Thoraxklinik at University Hospital Heidelberg	64.0	IIB	NA	3.033333333	1	0	0	0	0	0
+tcga_luad	TCGA-62-A472	M	Thoraxklinik at University Hospital Heidelberg	70.0	IIB	NA	1.766666667	1	0	0	0	0	0
+tcga_luad	TCGA-64-1676	M	Fox Chase	58.0	IA	NA	17.83333333	1	0	0	0	0	0
+tcga_luad	TCGA-64-1677	F	Fox Chase	77.0	IIIA	NA	6.533333333	2	1	0	0	0	0
+tcga_luad	TCGA-64-1678	F	Fox Chase	70.0	IIA	NA	0.0	0	0	0	0	0	0
+tcga_luad	TCGA-64-1679	F	Fox Chase	58.0	IIIA	NA	16.03333333	1	0	0	0	0	0
+tcga_luad	TCGA-64-1680	M	Fox Chase	63.0	IV	NA	1.833333333	0	0	0	0	0	0
+tcga_luad	TCGA-64-1681	F	Fox Chase	61.0	IA	NA	2.566666667	1	0	1	0	0	0
+tcga_luad	TCGA-64-5774	M	Fox Chase	60.0	IB	NA	4.133333333	0	1	0	0	0	0
+tcga_luad	TCGA-64-5775	M	Fox Chase	71.0	IIIA	NA	14.4	1	1	0	0	0	0
+tcga_luad	TCGA-64-5778	M	Fox Chase	60.0	IB	NA	14.26666667	1	1	0	0	0	0
+tcga_luad	TCGA-64-5779	M	Fox Chase	61.0	IIIA	NA	10.8	0	0	0	0	0	0
+tcga_luad	TCGA-64-5781	F	Fox Chase	55.0	IB	NA	34.16666667	0	0	0	0	1	0
+tcga_luad	TCGA-64-5815	M	Fox Chase	74.0	IIB	NA	4.933333333	0	1	0	0	0	0
+tcga_luad	TCGA-67-3770	F	St Joseph's Medical Center (MD)	70.0	IA	NA	6.266666667	1	0	1	0	0	0
+tcga_luad	TCGA-67-3771	F	St Joseph's Medical Center (MD)	77.0	IA	NA	31.63333333	1	0	0	0	1	0
+tcga_luad	TCGA-67-3772	F	St Joseph's Medical Center (MD)	82.0	IB	NA	2.0	0	0	1	0	0	0
+tcga_luad	TCGA-67-3773	F	St Joseph's Medical Center (MD)	84.0	IB	NA	3.233333333	0	1	0	0	0	0
+tcga_luad	TCGA-67-3774	F	St Joseph's Medical Center (MD)	73.0	IB	NA	3.166666667	0	2	0	1	0	0
+tcga_luad	TCGA-67-4679	M	St Joseph's Medical Center (MD)	69.0	NA	NA	8.8	0	1	0	0	0	0
+tcga_luad	TCGA-67-6215	F	St Joseph's Medical Center (MD)	52.0	IB	NA	3.4	0	0	0	0	0	0
+tcga_luad	TCGA-67-6216	F	St Joseph's Medical Center (MD)	57.0	IA	NA	1.333333333	0	0	0	0	0	0
+tcga_luad	TCGA-67-6217	F	St Joseph's Medical Center (MD)	73.0	IIA	NA	5.9	0	0	1	0	0	0
+tcga_luad	TCGA-69-7760	M	Washington University - Cleveland Clinic	73.0	IIB	NA	2.133333333	1	0	1	0	0	0
+tcga_luad	TCGA-69-7761	M	Washington University - Cleveland Clinic	84.0	IB	NA	0.966666667	0	0	0	0	0	0
+tcga_luad	TCGA-69-7763	M	Washington University - Cleveland Clinic	69.0	IA	NA	2.2	0	0	0	1	0	0
+tcga_luad	TCGA-69-7764	M	Washington University - Cleveland Clinic	75.0	IA	NA	2.7	0	0	0	0	0	0
+tcga_luad	TCGA-69-7765	M	Washington University - Cleveland Clinic	56.0	IV	NA	18.26666667	1	0	1	0	0	0
+tcga_luad	TCGA-69-7973	F	Washington University - Cleveland Clinic	42.0	IB	NA	8.0	0	1	0	0	0	0
+tcga_luad	TCGA-69-7974	F	Washington University - Cleveland Clinic	54.0	IIIA	NA	16.1	1	1	0	0	0	0
+tcga_luad	TCGA-69-7978	M	Washington University - Cleveland Clinic	59.0	IIB	NA	18.26666667	1	1	0	0	0	0
+tcga_luad	TCGA-69-7979	F	Washington University - Cleveland Clinic	71.0	IB	NA	44.13333333	1	0	0	0	0	0
+tcga_luad	TCGA-69-7980	F	Washington University - Cleveland Clinic	70.0	I	NA	24.56666667	1	1	0	0	0	0
+tcga_luad	TCGA-69-8253	F	Washington University - Cleveland Clinic	59.0	IIA	NA	4.366666667	0	1	0	0	1	0
+tcga_luad	TCGA-69-8254	M	Washington University - Cleveland Clinic	85.0	NA	NA	2.533333333	0	1	0	0	0	0
+tcga_luad	TCGA-69-8255	M	Washington University - Cleveland Clinic	71.0	IA	NA	9.166666667	0	0	0	0	0	0
+tcga_luad	TCGA-69-8453	M	Washington University - Cleveland Clinic	77.0	IIB	NA	0.0	0	0	0	0	0	0
+tcga_luad	TCGA-69-A59K	F	Washington University - Cleveland Clinic	60.0	IIB	NA	14.6	1	0	0	0	0	0
+tcga_luad	TCGA-71-6725	F	ILSBio	48.0	IB	NA	1.7	0	0	0	0	0	0
+tcga_luad	TCGA-71-8520	F	ILSBio	60.0	IB	NA	2.666666667	1	0	2	0	0	0
+tcga_luad	TCGA-73-4658	F	Roswell Park	80.0	IB	NA	10.66666667	0	0	0	0	0	0
+tcga_luad	TCGA-73-4659	M	Roswell Park	66.0	IIIA	NA	6.4	0	0	0	1	0	0
+tcga_luad	TCGA-73-4662	F	Roswell Park	65.0	IA	NA	6.833333333	0	1	0	0	0	0
+tcga_luad	TCGA-73-4666	F	Roswell Park	52.0	IV	NA	11.43333333	1	0	0	0	1	0
+tcga_luad	TCGA-73-4668	F	Roswell Park	66.0	IIB	NA	16.23333333	0	0	0	0	0	0
+tcga_luad	TCGA-73-4670	F	Roswell Park	69.0	IV	NA	10.96666667	1	1	0	1	1	0
+tcga_luad	TCGA-73-4675	M	Roswell Park	59.0	IIIA	NA	2.133333333	0	0	0	0	0	0
+tcga_luad	TCGA-73-4676	M	Roswell Park	45.0	IIA	NA	2.833333333	1	0	0	0	1	0
+tcga_luad	TCGA-73-4677	M	Roswell Park	74.0	IA	NA	7.466666667	0	1	0	1	1	0
+tcga_luad	TCGA-73-7498	F	Roswell Park	58.0	IA	NA	3.3	0	1	0	1	1	0
+tcga_luad	TCGA-73-7499	F	Roswell Park	81.0	IB	NA	2.166666667	1	0	0	0	0	0
+tcga_luad	TCGA-73-A9RS	M	Roswell Park	41.0	IIB	NA	28.3	0	0	0	1	0	0
+tcga_luad	TCGA-75-5122	M	Ontario Institute for Cancer Research (OICR)	NA	IB	NA	3.966666667	0	0	0	0	0	0
+tcga_luad	TCGA-75-5125	M	Ontario Institute for Cancer Research (OICR)	NA	IIB	NA	5.5	1	0	0	0	0	0
+tcga_luad	TCGA-75-5126	F	Ontario Institute for Cancer Research (OICR)	NA	IIIA	NA	19.63333333	0	1	0	0	0	0
+tcga_luad	TCGA-75-5146	M	Ontario Institute for Cancer Research (OICR)	NA	IB	NA	5.633333333	2	0	0	1	0	0
+tcga_luad	TCGA-75-5147	F	Ontario Institute for Cancer Research (OICR)	NA	IB	NA	1.3	1	0	0	0	0	0
+tcga_luad	TCGA-75-6203	F	Ontario Institute for Cancer Research (OICR)	NA	IIIA	NA	0.366666667	0	0	0	0	0	0
+tcga_luad	TCGA-75-6205	F	Ontario Institute for Cancer Research (OICR)	NA	IB	NA	1.566666667	0	0	0	0	0	0
+tcga_luad	TCGA-75-6206	M	Ontario Institute for Cancer Research (OICR)	NA	IB	NA	2.7	0	1	0	0	1	0
+tcga_luad	TCGA-75-6207	M	Ontario Institute for Cancer Research (OICR)	NA	IIIA	NA	2.0	1	0	1	0	0	0
+tcga_luad	TCGA-75-6211	F	Ontario Institute for Cancer Research (OICR)	NA	IB	NA	11.33333333	1	0	0	0	1	0
+tcga_luad	TCGA-75-6212	F	Ontario Institute for Cancer Research (OICR)	NA	IIB	NA	0.7	0	0	1	0	0	0
+tcga_luad	TCGA-75-6214	F	Ontario Institute for Cancer Research (OICR)	NA	IIIA	NA	21.5	1	0	0	0	0	0
+tcga_luad	TCGA-75-7025	M	Ontario Institute for Cancer Research (OICR)	NA	IB	NA	1.033333333	0	0	1	0	0	0
+tcga_luad	TCGA-75-7027	M	Ontario Institute for Cancer Research (OICR)	NA	IB	NA	7.133333333	0	1	0	0	1	0
+tcga_luad	TCGA-75-7030	M	Ontario Institute for Cancer Research (OICR)	NA	IIB	NA	0.5	0	1	0	0	0	0
+tcga_luad	TCGA-75-7031	F	Ontario Institute for Cancer Research (OICR)	NA	IB	NA	6.3	1	0	0	1	0	0
+tcga_luad	TCGA-78-7143	F	Prince Charles Hospital	62.0	IB	NA	0.0	0	0	0	0	0	0
+tcga_luad	TCGA-78-7145	F	Prince Charles Hospital	52.0	IV	NA	6.266666667	1	2	0	0	0	0
+tcga_luad	TCGA-78-7146	F	Prince Charles Hospital	71.0	IIIA	NA	11.56666667	1	0	0	0	1	0
+tcga_luad	TCGA-78-7147	F	Prince Charles Hospital	67.0	IIB	NA	10.16666667	1	0	3	0	0	0
+tcga_luad	TCGA-78-7148	M	Prince Charles Hospital	71.0	IIB	NA	7.133333333	0	1	0	1	0	0
+tcga_luad	TCGA-78-7149	M	Prince Charles Hospital	71.0	IIIB	NA	4.566666667	1	0	0	0	1	0
+tcga_luad	TCGA-78-7150	M	Prince Charles Hospital	59.0	IIB	NA	12.26666667	1	0	0	0	0	0
+tcga_luad	TCGA-78-7152	M	Prince Charles Hospital	65.0	IB	NA	6.0	0	0	0	1	0	0
+tcga_luad	TCGA-78-7153	F	Prince Charles Hospital	65.0	IB	NA	3.833333333	0	0	0	0	1	0
+tcga_luad	TCGA-78-7154	M	Prince Charles Hospital	72.0	IIIA	NA	7.066666667	1	0	0	0	1	0
+tcga_luad	TCGA-78-7155	M	Prince Charles Hospital	68.0	IB	NA	47.06666667	1	0	3	0	0	0
+tcga_luad	TCGA-78-7156	M	Prince Charles Hospital	62.0	IV	NA	10.36666667	0	0	0	1	1	0
+tcga_luad	TCGA-78-7158	F	Prince Charles Hospital	59.0	IIIB	NA	8.3	0	0	1	0	1	0
+tcga_luad	TCGA-78-7159	F	Prince Charles Hospital	60.0	IA	NA	10.2	0	0	0	1	0	0
+tcga_luad	TCGA-78-7160	M	Prince Charles Hospital	61.0	IV	NA	1.666666667	0	1	0	1	0	0
+tcga_luad	TCGA-78-7161	F	Prince Charles Hospital	69.0	IIB	NA	5.8	0	1	0	1	0	0
+tcga_luad	TCGA-78-7162	M	Prince Charles Hospital	75.0	IA	NA	2.433333333	0	0	0	0	1	0
+tcga_luad	TCGA-78-7163	M	Prince Charles Hospital	60.0	IB	NA	1.666666667	0	0	0	0	0	0
+tcga_luad	TCGA-78-7166	M	Prince Charles Hospital	84.0	IIB	NA	6.466666667	0	1	0	2	1	0
+tcga_luad	TCGA-78-7167	M	Prince Charles Hospital	77.0	IV	NA	3.5	0	2	0	0	1	0
+tcga_luad	TCGA-78-7220	F	Prince Charles Hospital	53.0	IIIA	NA	24.86666667	1	0	0	1	0	0
+tcga_luad	TCGA-78-7535	M	Prince Charles Hospital	45.0	IB	NA	4.9	1	0	0	1	0	0
+tcga_luad	TCGA-78-7536	M	Prince Charles Hospital	69.0	IIIA	NA	19.83333333	1	0	0	0	0	0
+tcga_luad	TCGA-78-7537	M	Prince Charles Hospital	72.0	IB	NA	4.466666667	0	0	0	0	0	0
+tcga_luad	TCGA-78-7539	F	Prince Charles Hospital	75.0	IIA	NA	14.43333333	0	1	0	0	0	0
+tcga_luad	TCGA-78-7540	F	Prince Charles Hospital	66.0	IB	NA	7.566666667	1	1	0	0	0	0
+tcga_luad	TCGA-78-7542	M	Prince Charles Hospital	56.0	IB	NA	11.0	1	0	0	0	0	0
+tcga_luad	TCGA-78-7633	M	Prince Charles Hospital	67.0	IB	NA	4.933333333	0	0	0	0	1	0
+tcga_luad	TCGA-78-8640	M	Prince Charles Hospital	59.0	IIA	NA	21.7	1	0	0	0	0	0
+tcga_luad	TCGA-78-8648	F	Prince Charles Hospital	58.0	IIB	NA	0.466666667	0	0	0	0	0	0
+tcga_luad	TCGA-78-8655	F	Prince Charles Hospital	77.0	IA	NA	3.233333333	0	1	0	0	0	0
+tcga_luad	TCGA-78-8660	M	Prince Charles Hospital	69.0	IIB	NA	7.366666667	1	0	0	0	0	0
+tcga_luad	TCGA-78-8662	F	Prince Charles Hospital	53.0	IB	NA	33.73333333	1	0	0	0	0	0
+tcga_luad	TCGA-80-5607	F	Ontario Institute for Cancer Research (OICR)/Ottawa	NA	IIB	NA	3.733333333	0	0	0	0	0	0
+tcga_luad	TCGA-80-5608	F	Ontario Institute for Cancer Research (OICR)/Ottawa	NA	IA	NA	11.36666667	0	1	0	1	1	0
+tcga_luad	TCGA-80-5611	M	Ontario Institute for Cancer Research (OICR)/Ottawa	NA	IB	NA	6.333333333	0	0	0	0	0	0
+tcga_luad	TCGA-83-5908	F	CHI-Penrose Colorado	59.0	IA	NA	7.2	1	1	0	0	0	0
+tcga_luad	TCGA-86-6562	M	Asterand	52.0	IIA	NA	1.733333333	0	0	0	0	0	0
+tcga_luad	TCGA-86-6851	F	Asterand	73.0	IIA	NA	27.93333333	1	0	0	0	0	0
+tcga_luad	TCGA-86-7701	M	Asterand	66.0	IV	NA	12.7	1	0	0	0	0	0
+tcga_luad	TCGA-86-7711	M	Asterand	70.0	IIA	NA	13.6	1	0	0	0	0	0
+tcga_luad	TCGA-86-7713	M	Asterand	70.0	IIA	NA	10.0	0	1	0	1	0	0
+tcga_luad	TCGA-86-7714	F	Asterand	61.0	IIIA	NA	2.266666667	0	0	0	0	0	0
+tcga_luad	TCGA-86-7953	F	Asterand	69.0	IA	NA	1.633333333	0	1	0	0	0	0
+tcga_luad	TCGA-86-7954	F	Asterand	68.0	IB	NA	6.2	1	0	0	0	0	0
+tcga_luad	TCGA-86-7955	M	Asterand	62.0	IB	NA	9.233333333	0	0	0	0	0	0
+tcga_luad	TCGA-86-8054	M	Asterand	61.0	IIB	NA	6.633333333	0	1	0	1	0	0
+tcga_luad	TCGA-86-8055	M	Asterand	79.0	IIA	NA	1.4	1	0	1	0	0	0
+tcga_luad	TCGA-86-8056	F	Asterand	63.0	IIIA	NA	8.633333333	1	1	0	0	0	0
+tcga_luad	TCGA-86-8073	M	Asterand	58.0	IB	NA	44.56666667	1	0	0	0	0	0
+tcga_luad	TCGA-86-8074	F	Asterand	62.0	IIA	NA	2.1	1	0	1	0	0	0
+tcga_luad	TCGA-86-8075	F	Asterand	66.0	IB	NA	1.666666667	1	0	1	0	0	0
+tcga_luad	TCGA-86-8076	M	Asterand	42.0	IA	NA	2.133333333	0	1	0	0	0	0
+tcga_luad	TCGA-86-8278	F	Asterand	63.0	IIB	NA	3.1	0	0	0	0	0	0
+tcga_luad	TCGA-86-8279	M	Asterand	46.0	IIA	NA	15.2	1	0	0	0	0	0
+tcga_luad	TCGA-86-8280	F	Asterand	54.0	IIA	NA	1.466666667	1	0	1	1	0	0
+tcga_luad	TCGA-86-8281	M	Asterand	75.0	IA	NA	7.566666667	0	0	0	0	1	0
+tcga_luad	TCGA-86-8358	M	Asterand	44.0	IB	NA	31.83333333	1	0	0	0	1	0
+tcga_luad	TCGA-86-8359	M	Asterand	52.0	IIIA	NA	4.8	0	1	0	1	0	0
+tcga_luad	TCGA-86-8585	M	Asterand	57.0	IB	NA	17.73333333	1	0	0	0	0	0
+tcga_luad	TCGA-86-8668	F	Asterand	61.0	IA	NA	1.1	0	0	1	0	0	0
+tcga_luad	TCGA-86-8669	M	Asterand	64.0	IA	NA	3.933333333	0	0	0	0	0	0
+tcga_luad	TCGA-86-8671	F	Asterand	72.0	IIB	NA	1.133333333	0	0	0	0	0	0
+tcga_luad	TCGA-86-8672	M	Asterand	59.0	IIB	NA	8.766666667	1	0	0	0	1	0
+tcga_luad	TCGA-86-8673	M	Asterand	61.0	IB	NA	14.73333333	1	0	0	0	0	0
+tcga_luad	TCGA-86-8674	M	Asterand	50.0	IIA	NA	8.966666667	0	1	0	0	1	0
+tcga_luad	TCGA-86-A456	F	Asterand	78.0	IA	NA	10.96666667	0	1	0	0	0	0
+tcga_luad	TCGA-86-A4D0	M	Asterand	48.0	IIA	NA	0.0	0	0	0	0	0	0
+tcga_luad	TCGA-86-A4JF	M	Asterand	56.0	IIB	NA	41.16666667	2	1	0	0	0	0
+tcga_luad	TCGA-86-A4P7	F	Asterand	63.0	IB	NA	2.2	1	0	1	0	0	0
+tcga_luad	TCGA-86-A4P8	F	Asterand	59.0	IIIA	NA	0.0	0	0	0	0	0	0
+tcga_luad	TCGA-91-6828	M	ABS - IUPUI	70.0	IA	NA	18.23333333	0	1	0	0	0	0
+tcga_luad	TCGA-91-6829	M	ABS - IUPUI	78.0	IB	NA	19.6	0	0	0	0	0	0
+tcga_luad	TCGA-91-6830	F	ABS - IUPUI	65.0	IIA	NA	8.1	0	0	0	0	0	0
+tcga_luad	TCGA-91-6831	M	ABS - IUPUI	66.0	IB	NA	8.633333333	1	0	0	0	0	0
+tcga_luad	TCGA-91-6835	F	ABS - IUPUI	81.0	IA	NA	2.633333333	0	0	1	0	0	0
+tcga_luad	TCGA-91-6836	F	ABS - IUPUI	52.0	IB	NA	15.33333333	1	1	0	0	0	0
+tcga_luad	TCGA-91-6840	F	ABS - IUPUI	59.0	IA	NA	4.233333333	1	0	0	0	0	0
+tcga_luad	TCGA-91-6847	F	ABS - IUPUI	62.0	IB	NA	2.266666667	1	0	0	0	0	0
+tcga_luad	TCGA-91-6848	M	ABS - IUPUI	59.0	IIIA	NA	18.73333333	1	0	0	0	1	0
+tcga_luad	TCGA-91-6849	F	ABS - IUPUI	75.0	IIIA	NA	3.6	0	1	0	0	1	0
+tcga_luad	TCGA-91-7771	M	ABS - IUPUI	62.0	IIB	NA	6.233333333	0	0	0	1	0	0
+tcga_luad	TCGA-91-8496	F	ABS - IUPUI	63.0	IB	NA	1.033333333	0	0	0	0	0	0
+tcga_luad	TCGA-91-8497	F	ABS - IUPUI	75.0	IA	NA	1.333333333	0	0	0	0	0	0
+tcga_luad	TCGA-91-8499	F	ABS - IUPUI	76.0	IA	NA	9.433333333	1	0	0	0	0	0
+tcga_luad	TCGA-91-A4BC	M	ABS - IUPUI	59.0	IIA	NA	13.5	1	0	0	0	0	0
+tcga_luad	TCGA-91-A4BD	M	ABS - IUPUI	78.0	IIA	NA	0.533333333	0	0	0	0	0	0
+tcga_luad	TCGA-93-7347	F	Washington University - St. Louis	76.0	IA	NA	3.566666667	0	1	0	0	0	0
+tcga_luad	TCGA-93-7348	F	Washington University - St. Louis	75.0	IA	NA	6.733333333	0	0	0	0	0	0
+tcga_luad	TCGA-93-8067	M	Washington University - St. Louis	77.0	IB	NA	15.06666667	1	1	0	0	0	0
+tcga_luad	TCGA-93-A4JN	M	Washington University - St. Louis	71.0	IV	NA	2.433333333	1	0	0	0	0	0
+tcga_luad	TCGA-93-A4JO	M	Washington University - St. Louis	70.0	IA	NA	1.766666667	1	1	0	0	0	0
+tcga_luad	TCGA-93-A4JP	M	Washington University - St. Louis	64.0	IV	NA	1.833333333	1	0	1	0	0	0
+tcga_luad	TCGA-93-A4JQ	M	Washington University - St. Louis	49.0	IA	NA	3.533333333	0	0	0	0	0	0
+tcga_luad	TCGA-95-7039	F	Washington University - Emory	54.0	IIB	NA	40.36666667	1	1	1	0	0	0
+tcga_luad	TCGA-95-7043	F	Washington University - Emory	63.0	IA	NA	34.16666667	1	0	0	0	1	0
+tcga_luad	TCGA-95-7562	M	Washington University - Emory	71.0	IIA	NA	13.1	1	1	0	0	0	0
+tcga_luad	TCGA-95-7567	M	Washington University - Emory	61.0	IIB	NA	28.16666667	1	1	0	0	0	0
+tcga_luad	TCGA-95-7944	M	Washington University - Emory	71.0	IA	NA	7.033333333	1	0	0	0	0	0
+tcga_luad	TCGA-95-7947	M	Washington University - Emory	67.0	IA	NA	16.0	1	0	2	0	1	0
+tcga_luad	TCGA-95-7948	F	Washington University - Emory	42.0	IB	NA	4.833333333	0	0	0	0	0	0
+tcga_luad	TCGA-95-8039	M	Washington University - Emory	72.0	IA	NA	2.933333333	1	0	0	0	0	0
+tcga_luad	TCGA-95-8494	M	Washington University - Emory	67.0	IIA	NA	3.0	1	0	0	0	0	0
+tcga_luad	TCGA-95-A4VK	F	Washington University - Emory	74.0	IIIA	NA	7.4	0	1	0	0	0	0
+tcga_luad	TCGA-95-A4VN	F	Washington University - Emory	62.0	IIA	NA	14.06666667	0	1	0	0	0	0
+tcga_luad	TCGA-95-A4VP	F	Washington University - Emory	66.0	IIIA	NA	3.766666667	0	1	0	1	0	0
+tcga_luad	TCGA-97-7546	F	Washington University - NYU	76.0	IA	NA	8.433333333	0	0	0	0	0	0
+tcga_luad	TCGA-97-7547	F	Washington University - NYU	67.0	IB	NA	5.3	0	0	0	0	0	0
+tcga_luad	TCGA-97-7552	M	Washington University - NYU	70.0	IB	NA	1.166666667	0	0	0	0	0	0
+tcga_luad	TCGA-97-7553	F	Washington University - NYU	58.0	IA	NA	1.4	1	0	0	0	0	0
+tcga_luad	TCGA-97-7554	F	Washington University - NYU	83.0	IIIA	NA	13.83333333	1	1	0	0	0	0
+tcga_luad	TCGA-97-7937	M	Washington University - NYU	65.0	IB	NA	14.83333333	1	0	0	0	0	0
+tcga_luad	TCGA-97-7938	F	Washington University - NYU	76.0	IA	NA	12.23333333	1	1	0	0	0	0
+tcga_luad	TCGA-97-7941	F	Washington University - NYU	72.0	IA	NA	2.9	0	1	0	0	0	0
+tcga_luad	TCGA-97-8171	M	Washington University - NYU	81.0	IV	NA	1.866666667	0	0	1	0	0	0
+tcga_luad	TCGA-97-8172	F	Washington University - NYU	75.0	IB	NA	8.2	0	0	1	0	0	0
+tcga_luad	TCGA-97-8174	M	Washington University - NYU	67.0	IIA	NA	5.266666667	0	0	0	0	0	0
+tcga_luad	TCGA-97-8175	F	Washington University - NYU	55.0	IB	NA	0.9	1	0	0	0	0	0
+tcga_luad	TCGA-97-8176	M	Washington University - NYU	63.0	IIIA	NA	4.6	0	1	0	0	1	0
+tcga_luad	TCGA-97-8177	F	Washington University - NYU	59.0	IB	NA	1.066666667	0	0	1	0	0	0
+tcga_luad	TCGA-97-8179	M	Washington University - NYU	72.0	IA	NA	5.033333333	1	1	0	1	1	0
+tcga_luad	TCGA-97-8547	F	Washington University - NYU	78.0	IIIA	NA	1.833333333	1	0	1	0	0	0
+tcga_luad	TCGA-97-8552	F	Washington University - NYU	55.0	I	NA	0.766666667	0	0	1	0	0	0
+tcga_luad	TCGA-97-A4LX	M	Washington University - NYU	81.0	IB	NA	5.0	1	0	0	0	0	0
+tcga_luad	TCGA-97-A4M0	F	Washington University - NYU	60.0	IB	NA	11.6	0	1	0	0	0	0
+tcga_luad	TCGA-97-A4M1	F	Washington University - NYU	52.0	IA	NA	1.3	1	0	1	0	0	0
+tcga_luad	TCGA-97-A4M2	M	Washington University - NYU	66.0	IA	NA	0.866666667	0	0	0	0	0	0
+tcga_luad	TCGA-97-A4M3	F	Washington University - NYU	69.0	IA	NA	6.433333333	0	0	0	1	1	0
+tcga_luad	TCGA-97-A4M5	M	Washington University - NYU	83.0	IA	NA	4.8	0	1	0	0	0	0
+tcga_luad	TCGA-97-A4M6	F	Washington University - NYU	45.0	IA	NA	0.966666667	0	0	1	0	0	0
+tcga_luad	TCGA-97-A4M7	M	Washington University - NYU	74.0	IA	NA	9.233333333	0	0	1	0	0	0
+tcga_luad	TCGA-99-7458	F	Washington University - Alabama	74.0	IIIA	NA	14.66666667	1	0	0	0	0	0
+tcga_luad	TCGA-99-8025	F	Washington University - Alabama	72.0	IIIA	NA	14.63333333	1	1	0	0	0	0
+tcga_luad	TCGA-99-8028	F	Washington University - Alabama	50.0	IA	NA	13.13333333	1	1	0	0	0	0
+tcga_luad	TCGA-99-8032	M	Washington University - Alabama	61.0	IA	NA	12.26666667	0	1	0	2	0	0
+tcga_luad	TCGA-99-8033	F	Washington University - Alabama	74.0	IV	NA	5.6	1	1	0	0	1	0
+tcga_luad	TCGA-99-AA5R	F	Washington University - Alabama	70.0	IA	NA	1.8	0	0	0	0	0	0
+tcga_luad	TCGA-J2-8192	F	ABS - Lahey Clinic	65.0	IIA	NA	2.3	0	0	1	0	0	0
+tcga_luad	TCGA-J2-8194	F	ABS - Lahey Clinic	69.0	IIB	NA	4.833333333	0	1	0	1	1	0
+tcga_luad	TCGA-J2-A4AD	F	ABS - Lahey Clinic	61.0	IA	NA	9.9	2	0	0	0	0	0
+tcga_luad	TCGA-J2-A4AE	F	ABS - Lahey Clinic	77.0	IA	NA	1.366666667	0	0	0	0	0	0
+tcga_luad	TCGA-J2-A4AG	F	ABS - Lahey Clinic	66.0	IA	NA	2.733333333	0	1	0	0	0	0
+tcga_luad	TCGA-L4-A4E5	F	Gundersen Lutheran Health System	48.0	I	NA	9.933333333	1	0	0	0	0	0
+tcga_luad	TCGA-L4-A4E6	M	Gundersen Lutheran Health System	67.0	IA	NA	0.333333333	0	0	0	0	0	0
+tcga_luad	TCGA-L9-A443	F	Candler	63.0	IA	NA	7.833333333	0	1	0	0	0	0
+tcga_luad	TCGA-L9-A444	F	Candler	60.0	IA	NA	16.36666667	1	0	0	0	0	0
+tcga_luad	TCGA-L9-A50W	M	Candler	75.0	IIA	NA	1.066666667	0	0	2	0	0	0
+tcga_luad	TCGA-L9-A5IP	F	Candler	40.0	IV	NA	8.733333333	1	0	0	0	0	0
+tcga_luad	TCGA-L9-A743	M	Candler	56.0	IIA	NA	3.9	1	0	0	0	0	0
+tcga_luad	TCGA-L9-A7SV	M	Candler	69.0	IIA	NA	46.63333333	2	0	0	0	0	0
+tcga_luad	TCGA-L9-A8F4	F	Candler	64.0	IB	NA	23.2	1	0	0	1	0	0
+tcga_luad	TCGA-MN-A4N1	M	BLN - Baylor	60.0	IIA	NA	13.7	1	0	0	0	0	0
+tcga_luad	TCGA-MN-A4N4	M	BLN - Baylor	57.0	IA	NA	44.86666667	1	0	0	0	0	0
+tcga_luad	TCGA-MN-A4N5	M	BLN - Baylor	63.0	IA	NA	13.5	1	1	0	0	0	0
+tcga_luad	TCGA-MP-A4SV	M	Washington University - Mayo Clinic	67.0	IB	NA	9.933333333	1	0	0	0	0	0
+tcga_luad	TCGA-MP-A4SW	M	Washington University - Mayo Clinic	53.0	IIB	NA	2.066666667	0	0	1	0	0	0
+tcga_luad	TCGA-MP-A4SY	M	Washington University - Mayo Clinic	61.0	IIB	NA	5.266666667	0	1	0	0	0	0
+tcga_luad	TCGA-MP-A4T2	M	Washington University - Mayo Clinic	71.0	IA	NA	2.466666667	0	0	0	0	0	0
+tcga_luad	TCGA-MP-A4T4	F	Washington University - Mayo Clinic	68.0	IIB	NA	11.83333333	1	1	0	0	0	0
+tcga_luad	TCGA-MP-A4T6	F	Washington University - Mayo Clinic	76.0	IIIA	NA	1.933333333	0	0	1	0	0	0
+tcga_luad	TCGA-MP-A4T7	F	Washington University - Mayo Clinic	75.0	IV	NA	4.166666667	0	1	0	0	1	0
+tcga_luad	TCGA-MP-A4T8	M	Washington University - Mayo Clinic	68.0	IIIA	NA	3.6	0	1	0	0	0	0
+tcga_luad	TCGA-MP-A4T9	F	Washington University - Mayo Clinic	54.0	IIIA	NA	1.033333333	0	0	1	0	0	0
+tcga_luad	TCGA-MP-A4TA	F	Washington University - Mayo Clinic	75.0	IA	NA	10.5	1	0	0	0	0	0
+tcga_luad	TCGA-MP-A4TC	M	Washington University - Mayo Clinic	77.0	IIIA	NA	7.6	1	0	0	0	0	0
+tcga_luad	TCGA-MP-A4TD	M	Washington University - Mayo Clinic	71.0	IIIA	NA	2.333333333	0	1	0	1	0	0
+tcga_luad	TCGA-MP-A4TE	M	Washington University - Mayo Clinic	56.0	IIA	NA	4.166666667	0	1	0	1	1	0
+tcga_luad	TCGA-MP-A4TF	F	Washington University - Mayo Clinic	58.0	IIA	NA	12.63333333	1	1	0	0	0	0
+tcga_luad	TCGA-MP-A4TH	F	Washington University - Mayo Clinic	70.0	IA	NA	3.6	0	0	0	0	0	0
+tcga_luad	TCGA-MP-A4TI	M	Washington University - Mayo Clinic	72.0	IIA	NA	6.866666667	1	1	0	0	0	0
+tcga_luad	TCGA-MP-A4TJ	F	Washington University - Mayo Clinic	62.0	IA	NA	2.833333333	0	0	0	0	0	0
+tcga_luad	TCGA-MP-A4TK	F	Washington University - Mayo Clinic	56.0	IIB	NA	10.5	1	1	0	0	0	0
+tcga_luad	TCGA-MP-A5C7	F	Washington University - Mayo Clinic	76.0	IB	NA	1.966666667	0	0	0	0	1	0
+tcga_luad	TCGA-NJ-A4YF	F	Washington University - Rush University	50.0	IA	NA	18.26666667	1	0	0	1	0	0
+tcga_luad	TCGA-NJ-A4YG	M	Washington University - Rush University	65.0	IB	NA	4.433333333	0	1	0	0	0	0
+tcga_luad	TCGA-NJ-A4YI	F	Washington University - Rush University	87.0	IIIA	NA	13.16666667	0	1	0	0	0	0
+tcga_luad	TCGA-NJ-A4YP	M	Washington University - Rush University	52.0	IB	NA	15.66666667	0	1	0	2	0	0
+tcga_luad	TCGA-NJ-A4YQ	F	Washington University - Rush University	69.0	IA	NA	33.46666667	0	0	0	0	1	0
+tcga_luad	TCGA-NJ-A55A	F	Washington University - Rush University	76.0	IB	NA	3.3	0	0	0	0	0	0
+tcga_luad	TCGA-NJ-A55O	F	Washington University - Rush University	56.0	IIA	NA	4.133333333	0	1	0	1	0	0
+tcga_luad	TCGA-NJ-A55R	M	Washington University - Rush University	67.0	IA	NA	7.7	0	1	0	2	1	0
+tcga_luad	TCGA-NJ-A7XG	M	Washington University - Rush University	49.0	IIIA	NA	0.9	0	0	0	0	0	0
+tcga_luad	TCGA-O1-A52J	F	Washington University - CALGB	74.0	IA	NA	5.1	1	0	0	0	0	0
+tcga_luad	TCGA-S2-AA1A	F	Albert Einstein Medical Center	68.0	IA	NA	3.433333333	0	0	0	0	0	0

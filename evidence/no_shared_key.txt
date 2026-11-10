@@ -1,0 +1,3 @@
+$ python -c "..."   # no shared identifier between the two cohorts
+shared ids: 0
+inner join rows: 0

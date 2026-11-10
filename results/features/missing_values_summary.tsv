@@ -1,0 +1,12 @@
+column	n_missing
+patient_id	0
+sex	52
+age_at_diagnosis	71
+stage	54
+tissue_source_site	0
+tmb_nonsynonymous	0
+TP53_count	0
+KRAS_count	0
+EGFR_count	0
+STK11_count	0
+KEAP1_count	0

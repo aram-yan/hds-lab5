@@ -1,0 +1,61 @@
+sample_id	patient_name	dob	dob_century_assumed	dob_order_ambiguous	sex	site	glucose_mgdl	glucose_unit_original	glucose_starred	glucose_unit_suspect	notes
+S0001	A. Nguyen	1962-07-09	False	True	F	Site B	145.9	mg/dL	False	False	
+S0002	T. Patel	1974-12-16	False	False	M	Site C	146.1	MG/DL	False	False	
+S0003	R. Martinez	1953-11-24	True	False	F	Site B	84.2	MG/DL	False	False	
+S0004	A. Patel	1957-02-27	False	False	F	Site B	120.0	MG/DL	False	False	
+S0005	B. Martinez	1997-12-02	False	False	M	Site B	138.3	mg/dl	False	False	
+S0006	R. Kim	1968-12-05	False	False	F	Site C	159.9	mmol/L	False	True	
+S0007	T. Martinez	1969-09-04	False	False	U	Site A	206.0	mg/dL	False	False	
+S0008	K. Davis	1999-08-20	False	False	F	Site C	229.3	MG/DL	False	False	
+S0009	S. Davis	1995-07-19	False	False	M	Site C	185.0	mg/dl	False	False	
+S0010	A. Martinez	1951-10-01	False	True	F	Site C	215.2	mg/dl	False	False	re-draw requested
+S0011	B. Davis	1961-07-09	True	True	M	Site A	165.0	mmol/L	False	True	
+S0012	T. Johnson	1996-06-07	True	True		Site A	110.4	MG/DL	False	False	re-draw requested
+S0013	A. Patel	1952-10-26	False	False	F	Site B	112.8	mmol/L	False	True	
+S0014	K. Kim	1958-09-12	True	True	F	Site B	144.0	mg/dL	False	False	
+S0015	B. Patel	1998-02-11	True	True	M	Site B	103.0	mmol/L	False	True	
+S0016	A. Davis	1958-05-15	False	False		Site B	157.4	mg/dl	False	False	
+S0017	K. Nguyen	2015-07-16	True	False		Site A	123.4	mg/dL	False	False	
+S0018	J. Smith	1957-03-10	False	False	F	Site B	82.2	mg/dl	False	False	
+S0019	B. Kim	2000-09-16	False	False	M	Site A	190.6	MG/DL	False	False	
+S0020	B. Smith	2000-07-05	False	True	F	Site B	108.4	MG/DL	False	False	
+S0021	K. Davis	2004-11-16	False	False	M	Site C	88.6	mg/dl	False	False	
+S0022	M. Johnson	2006-11-25	False	False		Site A	233.0	mg/dL	False	False	
+S0023	S. Lee	1999-06-30	True	False	M	Site A	83.5	mg/dl	False	False	
+S0024	S. Johnson	1953-07-31	False	False	F	Site C	114.9	mg/dL	False	False	
+S0025	M. Lee	1965-11-19	True	False	M	Site A	202.6	MG/DL	False	False	
+S0026	J. Garcia	1953-06-22	True	False	F	Site A	217.0	mmol/L	False	True	
+S0027	T. Johnson	1956-03-24	False	False	F	Site C	161.7	MG/DL	False	False	
+S0028	S. Smith	1988-12-26	False	False	F	Site B	179.1	mg/dL	False	False	
+S0029	M. Johnson	2009-08-04	False	False	F	Site C	222.6	MG/DL	False	False	
+S0030	M. Kim	1984-01-06	False	False	M	Site B	168.6	mg/dL	False	False	
+S0031	K. Brown	1995-11-11	True	True	M	Site C	85.3	MG/DL	False	False	
+S0032	J. Smith	1992-08-17	False	False	U	Site B	229.5	mg/dl	False	False	
+S0033	B. Kim	2012-06-07	True	True	M	Site B	114.9	mg/dL	False	False	
+S0034	K. Martinez	1995-04-15	True	False	U	Site A	203.9	mmol/L	False	True	
+S0035	K. Patel	1956-12-13	False	False	F	Site A	130.5	mg/dL	False	False	
+S0036	T. Johnson	1987-04-21	False	False		Site C	145.6	mg/dL	False	False	
+S0037	T. Kim	2015-11-28	False	False	U	Site A	119.1	mmol/L	False	True	re-draw requested
+S0038	K. Lee	1997-12-02	False	True	U	Site B	171.6	mg/dL	False	False	
+S0039	R. Patel	1980-04-12	True	True	M	Site C	241.2	mmol/L	True	True	
+S0040	R. Patel	2008-06-21	False	False	M	Site A	105.9	mg/dL	False	False	
+S0041	K. Nguyen	1965-01-20	False	False	M	Site A	89.5	mg/dL	False	False	
+S0042	M. Garcia	2006-04-10	False	False	F	Site C	209.0	mg/dL	True	False	
+S0043	B. Davis	1951-02-19	True	False	U	Site A	148.0	MG/DL	False	False	
+S0044	S. Martinez	1998-04-13	True	False	U	Site B	218.6	MG/DL	False	False	
+S0045	K. Martinez	1984-01-01	False	False	M	Site B	223.2	mg/dl	False	False	
+S0046	S. Davis	1967-02-21	False	False	F	Site C	143.2	mg/dl	False	False	
+S0047	M. Kim	1977-06-21	False	False	U	Site B	165.6	mmol/L	False	True	
+S0048	M. Garcia	1978-04-23	False	False	M	Site A	108.9	mmol/L	False	True	
+S0049	M. Nguyen	1966-02-05	False	False	M	Site C	166.1	MG/DL	False	False	re-draw requested
+S0050	K. Garcia	2001-07-02	False	False	U	Site B	149.3	mg/dl	False	False	
+S0051	K. Garcia	2011-08-02	False	True	M	Site A	216.0	MG/DL	False	False	
+S0052	M. Davis	1989-09-20	False	False	U	Site A	172.4	mg/dL	False	False	
+S0053	B. Lee	1999-07-10	False	True	M	Site A	143.5	mmol/L	False	True	
+S0054	M. Nguyen	2006-01-28	False	False	U	Site A	168.0	mg/dl	False	False	
+S0055	S. Brown	2011-10-14	False	False	U	Site A	160.1	mmol/L	False	True	
+S0056	A. Garcia	2010-06-30	False	False	M	Site B	77.2	mg/dl	False	False	
+S0057	K. Garcia	1986-08-20	False	False	F	Site C	88.8	mg/dl	False	False	
+S0058	A. Brown	1972-08-23	False	False	F	Site C	142.8	mg/dL	False	False	
+S0059	K. Brown	1968-04-06	False	False	M	Site A	148.9	mmol/L	False	True	
+S0060	A. Davis	1970-02-27	False	False	U	Site A	186.6	mg/dl	False	False	

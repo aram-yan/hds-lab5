@@ -1,0 +1,86 @@
+# Partial re-run: one upstream input changes, only its downstream rules run.
+$ snakemake -n        # before the change: nothing to do
+
+Building DAG of jobs...
+Nothing to be done (all requested files are present and up to date).
+
+$ printf 'S0061,Z. Test,1990-01-01,F,Site A,100.0,mg/dL,\n' >> data/raw/messy_samples.csv
+$ snakemake -n        # after the change
+Job stats:
+job              count
+-------------  -------
+clean_samples        1
+merge_tables         1
+report               1
+all                  1
+total                4
+
+
+[Mon Nov  9 13:15:13 2026]
+rule clean_samples:
+    input: data/raw/messy_samples.csv
+    output: results/samples_clean.tsv
+    log: logs/clean_samples.log
+    jobid: 3
+    reason: Updated input files: data/raw/messy_samples.csv
+    resources: tmpdir=C:\Users\Aram\AppData\Local\Temp
+[Mon Nov  9 13:15:13 2026]
+rule merge_tables:
+    input: results/samples_clean.tsv, results/features/feature_table.tsv
+    output: results/combined.tsv
+    log: logs/merge_tables.log
+    jobid: 2
+    reason: Input files updated by another job: results/samples_clean.tsv
+    resources: tmpdir=C:\Users\Aram\AppData\Local\Temp
+[Mon Nov  9 13:15:13 2026]
+rule report:
+    input: results/combined.tsv
+    output: results/report/figure.png, results/report/summary.md
+    log: logs/report.log
+    jobid: 1
+    reason: Input files updated by another job: results/combined.tsv
+    resources: tmpdir=C:\Users\Aram\AppData\Local\Temp
+[Mon Nov  9 13:15:13 2026]
+rule all:
+    input: results/report/figure.png, results/report/summary.md
+    jobid: 0
+    reason: Input files updated by another job: results/report/summary.md, results/report/figure.png
+    resources: tmpdir=C:\Users\Aram\AppData\Local\Temp
+Job stats:
+job              count
+-------------  -------
+clean_samples        1
+merge_tables         1
+report               1
+all                  1
+total                4
+
+Reasons:
+    (check individual jobs above for details)
+    input files updated by another job:
+        all, merge_tables, report
+    updated input files:
+        clean_samples
+This was a dry-run (flag -n). The order of jobs does not reflect the order of execution.
+
+$ snakemake --cores 2
+localrule clean_samples:
+Finished jobid: 3 (Rule: clean_samples)
+1 of 4 steps (25%) done
+localrule merge_tables:
+Finished jobid: 2 (Rule: merge_tables)
+2 of 4 steps (50%) done
+localrule report:
+Finished jobid: 1 (Rule: report)
+3 of 4 steps (75%) done
+localrule all:
+Finished jobid: 0 (Rule: all)
+4 of 4 steps (100%) done
+Elapsed time: 0:00:07.559287
+exit=0
+
+$ tail -n 2 results/samples_clean.tsv
+S0060	A. Davis	1970-02-27	False	False	U	Site A	186.6	mg/dl	False	False	
+S0061	Z. Test	1990-01-01	False	False	F	Site A	100.0	mg/dL	False	False	
+$ grep -c . results/combined.tsv
+628
