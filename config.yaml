@@ -1,0 +1,9 @@
+# Raw inputs: copies of the course-repo files (see README, "Getting started").
+# Point these at ../applied-computing-HDS/data/raw/... instead if you prefer
+# not to copy; the workflow only needs the two paths to exist.
+messy_samples: data/raw/messy_samples.csv          # from data/raw/lab3-messy-data/
+cohort_db: data/raw/cohort.db                      # from data/raw/lab4-cbioportal-luad/
+
+# Date the clinic ages are computed at: the synthetic data's generation date
+# (data/raw/lab3-messy-data/SOURCE.md). Changing it re-runs merge + report only.
+reference_date: "2026-08-08"

@@ -1,0 +1,9 @@
+name: hds-lab5
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - snakemake-minimal>=9
+  - pandas
+  - matplotlib

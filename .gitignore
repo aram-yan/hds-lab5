@@ -1,0 +1,21 @@
+# raw inputs are copies of course-repo files; never committed (cohort.db is 16 MB)
+data/
+*.db
+*.db-journal
+
+# workflow bookkeeping and per-rule logs (evidence/ holds the kept console output)
+.snakemake/
+logs/
+
+# python / jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# editors / os
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
